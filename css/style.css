@@ -28,7 +28,6 @@ h1{
 }
 /* end header */
 
-/* start main */
 #main-box{
     margin: auto;
     width: 1000px;
@@ -69,6 +68,81 @@ nav{
 }
 
 div{
-    padding-bottom: 15px;
+    margin-bottom: 15px;
 }
 
+#done{
+    margin-right: 15px;
+    border-radius: 50%;
+    height: 30px;
+    width: 30px;
+    border: 2px green solid;
+    color: green;
+    padding: 0px 3px;
+}
+
+#not-done{
+    margin-right: 15px;
+    border-radius: 50%;
+    height: 30px;
+    width: 30px;
+    border: 2px red solid;
+    color: red;
+    padding: 0px 2.5px;
+}
+
+.blue-clouds{
+    margin-left: 10px;
+    font-size: .8em;
+    background-color: #3aa7f0;
+    padding: 8px 15px;
+    color: white;
+    border-radius: 13px;
+}
+
+.purple-clouds{
+    margin-left: 10px;
+    font-size: .8em;
+    background-color: #9c72e4;
+    padding: 8px 15px;
+    color: white;
+    border-radius: 13px;
+}
+
+.green-clouds{
+    margin-left: 10px;
+    font-size: .8em;
+    background-color: #64c0a9;
+    padding: 8px 15px;
+    color: white;
+    border-radius: 13px;
+}
+
+.orange-clouds{
+    margin-left: 10px;
+    font-size: .8em;
+    background-color: #f29e33;
+    padding: 8px 15px;
+    color: white;
+    border-radius: 13px;
+}
+
+.rose-clouds{
+    margin-left: 10px;
+    font-size: .8em;
+    background-color: #d863a1;
+    padding: 8px 15px;
+    color: white;
+    border-radius: 13px;
+}
+
+.greenyellow-clouds{
+    margin-left: 10px;
+    font-size: .8em;
+    background-color: #b0c926;
+    padding: 8px 15px;
+    color: white;
+    border-radius: 13px;
+}
+
+/* end section */
