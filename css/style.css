@@ -1,0 +1,19 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+#logo{
+    vertical-align: middle;
+    padding: 10px 5px 10px 15px;
+    height: 80px;
+    width: 80px;
+}
+
+h1{
+    display: inline-block;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2.5em;
+}
+
